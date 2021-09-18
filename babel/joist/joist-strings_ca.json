@@ -1,0 +1,633 @@
+{
+  "menuItem.about": {
+    "value": "Quant a:",
+    "history": [
+      {
+        "userId": 639116,
+        "timestamp": 1570349115247,
+        "oldValue": "",
+        "newValue": "Quant a:",
+        "explanation": null
+      }
+    ]
+  },
+  "menuItem.getUpdate": {
+    "value": "Comprova les actualitzacions...",
+    "history": [
+      {
+        "userId": 639116,
+        "timestamp": 1570349115248,
+        "oldValue": "",
+        "newValue": "Comprova actualitzacions...",
+        "explanation": null
+      },
+      {
+        "userId": 936741,
+        "timestamp": 1619764412982,
+        "oldValue": "Comprova actualitzacions...",
+        "newValue": "Comprova les actualitzacions..."
+      }
+    ]
+  },
+  "updates.checking": {
+    "value": "Comprovant les actualitzacions...",
+    "history": [
+      {
+        "userId": 639116,
+        "timestamp": 1570349115248,
+        "oldValue": "",
+        "newValue": "Comprovant les actualitzacions...",
+        "explanation": null
+      }
+    ]
+  },
+  "credits.contributors": {
+    "value": "Hi han contribuït: {0}",
+    "history": [
+      {
+        "userId": 639116,
+        "timestamp": 1570349115248,
+        "oldValue": "",
+        "newValue": "Han contribuït: {0}",
+        "explanation": null
+      },
+      {
+        "userId": 936741,
+        "timestamp": 1619808133978,
+        "oldValue": "Han contribuït: {0}",
+        "newValue": "Hi han contribuït: {0}"
+      }
+    ]
+  },
+  "credits.title": {
+    "value": "Reconeixements",
+    "history": [
+      {
+        "userId": 639116,
+        "timestamp": 1570349115248,
+        "oldValue": "",
+        "newValue": "Reconeixements",
+        "explanation": null
+      }
+    ]
+  },
+  "menuItem.enhancedSound": {
+    "value": "Millora de so",
+    "history": [
+      {
+        "userId": 639116,
+        "timestamp": 1571646884369,
+        "oldValue": "",
+        "newValue": "Reforçament del só",
+        "explanation": null
+      },
+      {
+        "userId": 763752,
+        "timestamp": 1586422260914,
+        "oldValue": "Reforçament del só",
+        "newValue": "Millora de so",
+        "explanation": null
+      }
+    ]
+  },
+  "menuItem.fullscreen": {
+    "value": "Pantalla completa",
+    "history": [
+      {
+        "userId": 639116,
+        "timestamp": 1570349115248,
+        "oldValue": "",
+        "newValue": "Pantalla completa",
+        "explanation": null
+      }
+    ]
+  },
+  "updates.getUpdate": {
+    "value": "Actualitza...",
+    "history": [
+      {
+        "userId": 639116,
+        "timestamp": 1570349115248,
+        "oldValue": "",
+        "newValue": "Actualitza...",
+        "explanation": null
+      }
+    ]
+  },
+  "credits.graphicArts": {
+    "value": "Disseny gràfic: {0}",
+    "history": [
+      {
+        "userId": 639116,
+        "timestamp": 1570349115248,
+        "oldValue": "",
+        "newValue": "Disseny Gràfic: {0}",
+        "explanation": null
+      },
+      {
+        "userId": 936741,
+        "timestamp": 1619764412982,
+        "oldValue": "Disseny Gràfic: {0}",
+        "newValue": "Disseny gràfic: {0}"
+      }
+    ]
+  },
+  "ieErrorPage.ieIsNotSupported": {
+    "value": "Internet Explorer no és compatible amb la simulació. ",
+    "history": [
+      {
+        "userId": 936741,
+        "timestamp": 1619809353547,
+        "oldValue": "",
+        "newValue": "Internet Explorer no és compatible amb la simulació. "
+      }
+    ]
+  },
+  "queryParametersWarningDialog.invalidQueryParameters": {
+    "value": "Els paràmetres de consulta no són vàlids.",
+    "history": [
+      {
+        "userId": 936741,
+        "timestamp": 1619809353547,
+        "oldValue": "",
+        "newValue": "Els paràmetres de consulta no són vàlids."
+      }
+    ]
+  },
+  "keyboardShortcuts.title": {
+    "value": "Dreceres de teclat",
+    "history": [
+      {
+        "userId": 639116,
+        "timestamp": 1570349115249,
+        "oldValue": "",
+        "newValue": "Dreceres de teclat",
+        "explanation": null
+      }
+    ]
+  },
+  "credits.leadDesign": {
+    "value": " Director de disseny: {0}",
+    "history": [
+      {
+        "userId": 639116,
+        "timestamp": 1570349115249,
+        "oldValue": "",
+        "newValue": " Director de disseny: {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "menuItem.mailInputEventsLog": {
+    "value": "Registre d'entrades de correu",
+    "history": [
+      {
+        "userId": 639116,
+        "timestamp": 1570349115249,
+        "oldValue": "",
+        "newValue": "Registre d'entrades de correu",
+        "explanation": null
+      }
+    ]
+  },
+  "updates.outOfDate": {
+    "value": "Hi ha una versió nova",
+    "history": [
+      {
+        "userId": 639116,
+        "timestamp": 1570349115249,
+        "oldValue": "",
+        "newValue": "Existeix una nova versió",
+        "explanation": null
+      },
+      {
+        "userId": 936741,
+        "timestamp": 1620385241137,
+        "oldValue": "Existeix una nova versió",
+        "newValue": "Hi ha una versió nova"
+      }
+    ]
+  },
+  "updates.noThanks": {
+    "value": "No, gràcies",
+    "history": [
+      {
+        "userId": 639116,
+        "timestamp": 1570349115249,
+        "oldValue": "",
+        "newValue": "No gràcies",
+        "explanation": null
+      },
+      {
+        "userId": 936741,
+        "timestamp": 1619848069017,
+        "oldValue": "No gràcies",
+        "newValue": "No, gràcies"
+      }
+    ]
+  },
+  "queryParametersWarningDialog.oneOrMoreQueryParameters": {
+    "value": "Algun paràmetre de la consulta <br>té valors que no són vàlids: ",
+    "history": [
+      {
+        "userId": 936741,
+        "timestamp": 1619809353547,
+        "oldValue": "",
+        "newValue": "Algun paràmetre de la consulta <br>té valors que no són vàlids: "
+      }
+    ]
+  },
+  "options.title": {
+    "value": "Opcions",
+    "history": [
+      {
+        "userId": 639116,
+        "timestamp": 1570349115249,
+        "oldValue": "",
+        "newValue": "Opcions",
+        "explanation": null
+      }
+    ]
+  },
+  "menuItem.options": {
+    "value": "Opcions...",
+    "history": [
+      {
+        "userId": 639116,
+        "timestamp": 1570349115249,
+        "oldValue": "",
+        "newValue": "Opcions...",
+        "explanation": null
+      }
+    ]
+  },
+  "menuItem.outputInputEventsLog": {
+    "value": "Registre d'entrades i sortides",
+    "history": [
+      {
+        "userId": 639116,
+        "timestamp": 1570349115249,
+        "oldValue": "",
+        "newValue": "Registre d'entrades i sortides",
+        "explanation": null
+      }
+    ]
+  },
+  "menuItem.phetWebsite": {
+    "value": "Lloc web del PhET…",
+    "history": [
+      {
+        "userId": 639116,
+        "timestamp": 1570349115249,
+        "oldValue": "",
+        "newValue": "Website PhET…",
+        "explanation": null
+      },
+      {
+        "userId": 936741,
+        "timestamp": 1620109813316,
+        "oldValue": "Website PhET…",
+        "newValue": "Lloc web del PhET…"
+      }
+    ]
+  },
+  "ieErrorPage.platformError": {
+    "value": "Error de la plataforma",
+    "history": [
+      {
+        "userId": 936741,
+        "timestamp": 1619809353547,
+        "oldValue": "",
+        "newValue": "Error de la plataforma"
+      }
+    ]
+  },
+  "ieErrorPage.useDifferentBrowser": {
+    "value": "Feu servir un altre navegador per reproduir la simulació.",
+    "history": [
+      {
+        "userId": 936741,
+        "timestamp": 1619809353547,
+        "oldValue": "",
+        "newValue": "Feu servir un altre navegador per reproduir la simulació."
+      }
+    ]
+  },
+  "projectorMode": {
+    "value": "Mode de projector",
+    "history": [
+      {
+        "userId": 639116,
+        "timestamp": 1571646884370,
+        "oldValue": "",
+        "newValue": "Mode Projector",
+        "explanation": null
+      },
+      {
+        "userId": 936741,
+        "timestamp": 1622043202630,
+        "oldValue": "Mode Projector",
+        "newValue": "Mode de projector"
+      }
+    ]
+  },
+  "credits.qualityAssurance": {
+    "value": "Control de qualitat: {0}",
+    "history": [
+      {
+        "userId": 639116,
+        "timestamp": 1570349115249,
+        "oldValue": "",
+        "newValue": "Control de qualitat: {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "menuItem.reportAProblem": {
+    "value": "Avisa'ns d'un problema...",
+    "history": [
+      {
+        "userId": 639116,
+        "timestamp": 1570349115249,
+        "oldValue": "",
+        "newValue": "Avisa'ns d'un problema...",
+        "explanation": null
+      }
+    ]
+  },
+  "menuItem.screenshot": {
+    "value": "Captura de pantalla",
+    "history": [
+      {
+        "userId": 639116,
+        "timestamp": 1570349115249,
+        "oldValue": "",
+        "newValue": "Captura de pantalla",
+        "explanation": null
+      }
+    ]
+  },
+  "credits.softwareDevelopment": {
+    "value": "Desenvolupament del programari: {0}",
+    "history": [
+      {
+        "userId": 639116,
+        "timestamp": 1570349115249,
+        "oldValue": "",
+        "newValue": "Desenvolupament de software: {0}",
+        "explanation": null
+      },
+      {
+        "userId": 936741,
+        "timestamp": 1620109813316,
+        "oldValue": "Desenvolupament de software: {0}",
+        "newValue": "Desenvolupament del programari: {0}"
+      }
+    ]
+  },
+  "credits.soundDesign": {
+    "value": "Disseny de so: {0}",
+    "history": [
+      {
+        "userId": 763752,
+        "timestamp": 1586422260914,
+        "oldValue": "",
+        "newValue": "Disseny de so: {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "menuItem.submitInputEventsLog": {
+    "value": "Registre d'aportacions transmeses",
+    "history": [
+      {
+        "userId": 639116,
+        "timestamp": 1570349115249,
+        "oldValue": "",
+        "newValue": "Registre d'aportacions transmeses",
+        "explanation": null
+      }
+    ]
+  },
+  "credits.team": {
+    "value": " Equip: {0}",
+    "history": [
+      {
+        "userId": 639116,
+        "timestamp": 1570349115249,
+        "oldValue": "",
+        "newValue": " Equip: {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "termsPrivacyAndLicensing": {
+    "value": "Termes, privadesa i llicències",
+    "history": [
+      {
+        "userId": 639116,
+        "timestamp": 1570349115249,
+        "oldValue": "",
+        "newValue": "Termes, privadesa i llicències",
+        "explanation": null
+      }
+    ]
+  },
+  "credits.thanks": {
+    "value": "Gràcies",
+    "history": [
+      {
+        "userId": 639116,
+        "timestamp": 1570349115249,
+        "oldValue": "",
+        "newValue": "Gràcies",
+        "explanation": null
+      }
+    ]
+  },
+  "queryParametersWarningDialog.theSimulationWillStart": {
+    "value": "La simulació començarà amb els valors per defecte <br>per aquests paràmetres consultats.",
+    "history": [
+      {
+        "userId": 936741,
+        "timestamp": 1619809353547,
+        "oldValue": "",
+        "newValue": "La simulació començarà amb els valors per defecte <br>per aquests paràmetres consultats."
+      }
+    ]
+  },
+  "updates.newVersionAvailable": {
+    "value": "Hi ha una versió nova accessible: {0}.",
+    "history": [
+      {
+        "userId": 639116,
+        "timestamp": 1570349115249,
+        "oldValue": "",
+        "newValue": "Hi ha una versió nova accessible: {0}.",
+        "explanation": null
+      }
+    ]
+  },
+  "thirdParty.credits.link": {
+    "value": "Reconeixements de terceres parts",
+    "history": [
+      {
+        "userId": 639116,
+        "timestamp": 1570349115249,
+        "oldValue": "",
+        "newValue": "Reconeixements de Terceres Parts",
+        "explanation": null
+      },
+      {
+        "userId": 936741,
+        "timestamp": 1619780082451,
+        "oldValue": "Reconeixements de Terceres Parts",
+        "newValue": "Reconeixements de terceres parts"
+      }
+    ]
+  },
+  "updates.upToDate": {
+    "value": "La simulació està actualitzada.",
+    "history": [
+      {
+        "userId": 639116,
+        "timestamp": 1570349115249,
+        "oldValue": "",
+        "newValue": "La simulació està actualitzada.",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardShortcuts.toGetStarted": {
+    "value": "per començar",
+    "history": [
+      {
+        "userId": 763752,
+        "timestamp": 1586422260914,
+        "oldValue": "",
+        "newValue": "engegar",
+        "explanation": null
+      },
+      {
+        "userId": 936741,
+        "timestamp": 1620385241137,
+        "oldValue": "engegar",
+        "newValue": "per començar"
+      }
+    ]
+  },
+  "credits.translation": {
+    "value": "Traducció",
+    "history": [
+      {
+        "userId": 639116,
+        "timestamp": 1570349115249,
+        "oldValue": "",
+        "newValue": "Traducció",
+        "explanation": null
+      }
+    ]
+  },
+  "translation.credits.link": {
+    "value": "Reconeixements de la traducció",
+    "history": [
+      {
+        "userId": 639116,
+        "timestamp": 1570349115249,
+        "oldValue": "",
+        "newValue": "Reconeixements de la traducció",
+        "explanation": null
+      }
+    ]
+  },
+  "updates.offline": {
+    "value": "No podem comprovar les actualitzacions.",
+    "history": [
+      {
+        "userId": 639116,
+        "timestamp": 1570349115249,
+        "oldValue": "",
+        "newValue": "No podem comprovar les actualitzacions.",
+        "explanation": null
+      }
+    ]
+  },
+  "versionPattern": {
+    "value": " versió {0}",
+    "history": [
+      {
+        "userId": 639116,
+        "timestamp": 1570349115249,
+        "oldValue": "",
+        "newValue": " versió {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "updates.yourCurrentVersion": {
+    "value": "La versió actual és: {0}.",
+    "history": [
+      {
+        "userId": 639116,
+        "timestamp": 1570349115249,
+        "oldValue": "",
+        "newValue": "La versió actual és: {0}.",
+        "explanation": null
+      }
+    ]
+  },
+  "simTitleWithScreenNamePattern": {
+    "value": "{{simName}} — {{screenName}}",
+    "history": [
+      {
+        "userId": 763752,
+        "timestamp": 1586422260914,
+        "oldValue": "",
+        "newValue": "{{simName}} — {{screenName}}",
+        "explanation": null
+      }
+    ]
+  },
+  "done": {
+    "value": "Fet",
+    "history": [
+      {
+        "userId": 763752,
+        "timestamp": 1586453796050,
+        "oldValue": "",
+        "newValue": "Fet",
+        "explanation": null
+      }
+    ]
+  },
+  "title.settings": {
+    "value": "Configuració",
+    "history": [
+      {
+        "userId": 763752,
+        "timestamp": 1586453796051,
+        "oldValue": "",
+        "newValue": "Configuració",
+        "explanation": null
+      }
+    ]
+  },
+  "showPointers": {
+    "value": "Mostra apunts",
+    "history": [
+      {
+        "userId": 763752,
+        "timestamp": 1586453796051,
+        "oldValue": "",
+        "newValue": "Mostra Apunts",
+        "explanation": null
+      },
+      {
+        "userId": 936741,
+        "timestamp": 1619764412982,
+        "oldValue": "Mostra Apunts",
+        "newValue": "Mostra apunts"
+      }
+    ]
+  }
+}

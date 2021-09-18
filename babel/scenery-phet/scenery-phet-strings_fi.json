@@ -1,0 +1,293 @@
+{
+  "keyboardHelpDialog.basicActions": {
+    "value": "Perustoiminnot",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1629096230806,
+        "oldValue": "",
+        "newValue": "Perustoiminnot"
+      }
+    ]
+  },
+  "speed.fast": {
+    "value": "Nopea",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1629096230806,
+        "oldValue": "",
+        "newValue": "Nopea"
+      }
+    ]
+  },
+  "keyboardHelpDialog.grabOrReleaseLabelPattern": {
+    "value": "Tartu tai vapauta {{thing}}",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1584453321767,
+        "oldValue": "",
+        "newValue": "Tartu tai vapauta {{thing}}",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.grabOrReleaseHeadingPattern": {
+    "value": "Tartu tai vapauta {{thing}}",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1584453321767,
+        "oldValue": "",
+        "newValue": "Tartu tai vapauta {{thing}}",
+        "explanation": null
+      }
+    ]
+  },
+  "speed.normal": {
+    "value": "Normaali",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1584453321767,
+        "oldValue": "",
+        "newValue": "normaali",
+        "explanation": null
+      },
+      {
+        "userId": 161174,
+        "timestamp": 1630155988925,
+        "oldValue": "normaali",
+        "newValue": "Normaali"
+      }
+    ]
+  },
+  "keyboardHelpDialog.or": {
+    "value": "tai",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1584450714957,
+        "oldValue": "",
+        "newValue": "tai",
+        "explanation": null
+      }
+    ]
+  },
+  "key.pageDown": {
+    "value": "Sivu alaspäin",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1584450714957,
+        "oldValue": "",
+        "newValue": "sivu alaspäin",
+        "explanation": null
+      },
+      {
+        "userId": 161174,
+        "timestamp": 1630155988925,
+        "oldValue": "sivu alaspäin",
+        "newValue": "Sivu alaspäin"
+      }
+    ]
+  },
+  "key.pageUp": {
+    "value": "Sivu ylöspäin",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1584450714957,
+        "oldValue": "",
+        "newValue": "sivu ylöspäin",
+        "explanation": null
+      },
+      {
+        "userId": 161174,
+        "timestamp": 1630155988925,
+        "oldValue": "sivu ylöspäin",
+        "newValue": "Sivu ylöspäin"
+      }
+    ]
+  },
+  "speed.slow": {
+    "value": "Hidas",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1584453321767,
+        "oldValue": "",
+        "newValue": "hidas",
+        "explanation": null
+      },
+      {
+        "userId": 161174,
+        "timestamp": 1629096230806,
+        "oldValue": "hidas",
+        "newValue": "Hidas"
+      }
+    ]
+  },
+  "key.space": {
+    "value": "Välilyönti",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1629096230806,
+        "oldValue": "",
+        "newValue": "Välilyönti"
+      }
+    ]
+  },
+  "symbol.resistivity": {
+    "value": "ρ",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1584453321768,
+        "oldValue": "",
+        "newValue": "ρ",
+        "explanation": null
+      }
+    ]
+  },
+  "symbol.ohms": {
+    "value": "Ω",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1584453321768,
+        "oldValue": "",
+        "newValue": "Ω",
+        "explanation": null
+      },
+      {
+        "userId": 161174,
+        "timestamp": 1622186974552,
+        "oldValue": "Ω",
+        "newValue": "Ω"
+      }
+    ]
+  },
+  "cool": {
+    "value": "Jäähdytä",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1584450714957,
+        "oldValue": "",
+        "newValue": "Jäähdytä",
+        "explanation": null
+      }
+    ]
+  },
+  "heat": {
+    "value": "Lämmitä",
+    "history": [
+      {
+        "userId": 161174,
+        "timestamp": 1584450714957,
+        "oldValue": "",
+        "newValue": "Lämmitä",
+        "explanation": null
+      }
+    ]
+  },
+  "NumberControl.pattern_0value_1units": {
+    "value": "{0} {1}",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1457865311101,
+        "oldValue": "",
+        "newValue": "{0} {1}",
+        "explanation": null
+      }
+    ]
+  },
+  "WavelengthSlider.pattern_0wavelength_1units": {
+    "value": "{0} {1}",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1454085877759,
+        "oldValue": "",
+        "newValue": "{0} {1}",
+        "explanation": null
+      }
+    ]
+  },
+  "units_nm": {
+    "value": "nm",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1454085877759,
+        "oldValue": "",
+        "newValue": "nm",
+        "explanation": null
+      }
+    ]
+  },
+  "webglWarning.body": {
+    "value": "WebGL ei ole saatavilla. Klikkaa lisätietoa.",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1457865964156,
+        "oldValue": "",
+        "newValue": "WebGL ei ole saatavilla. Klikkaa lisätietoa.",
+        "explanation": null
+      }
+    ]
+  },
+  "webglWarning.contextLossFailure": {
+    "value": "Grafiikassa tapahtui virhe.",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1457865964156,
+        "oldValue": "",
+        "newValue": "Grafiikassa tapahtui virhe.",
+        "explanation": null
+      }
+    ]
+  },
+  "webglWarning.contextLossReload": {
+    "value": "Lataa uudelleen",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1457865964156,
+        "oldValue": "",
+        "newValue": "Lataa uudelleen",
+        "explanation": null
+      }
+    ]
+  },
+  "webglWarning.ie11StencilBody": {
+    "value": "Internet Explorerin päivittäminen on suositeltavaa.",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1457865964156,
+        "oldValue": "",
+        "newValue": "Internet Explorerin päivittäminen on suositeltavaa.",
+        "explanation": null
+      }
+    ]
+  },
+  "webglWarning.title": {
+    "value": "Pienennetään grafiikan laatua",
+    "history": [
+      {
+        "userId": 158684,
+        "timestamp": 1457865964156,
+        "oldValue": "",
+        "newValue": "Pienennetään grafiikan laatua",
+        "explanation": null
+      }
+    ]
+  }
+}

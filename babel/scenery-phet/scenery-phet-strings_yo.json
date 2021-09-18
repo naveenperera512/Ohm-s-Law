@@ -1,0 +1,46 @@
+{
+  "cool": {
+    "value": "Tùtù",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1630507031720,
+        "oldValue": "",
+        "newValue": "Tùtù"
+      }
+    ]
+  },
+  "heat": {
+    "value": "Gboná",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1630507031720,
+        "oldValue": "",
+        "newValue": "Gboná"
+      }
+    ]
+  },
+  "speed.normal": {
+    "value": "Deedee",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1630442733828,
+        "oldValue": "",
+        "newValue": "Deedee"
+      }
+    ]
+  },
+  "speed.slow": {
+    "value": "Lọ̀ra",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1630442733828,
+        "oldValue": "",
+        "newValue": "Lọ̀ra"
+      }
+    ]
+  }
+}

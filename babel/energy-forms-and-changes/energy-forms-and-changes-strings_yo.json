@@ -1,0 +1,269 @@
+{
+  "water": {
+    "value": "Omi",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629314904556,
+        "oldValue": "",
+        "newValue": "Omi"
+      }
+    ]
+  },
+  "energyChunkLabel": {
+    "value": "E",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629314904556,
+        "oldValue": "",
+        "newValue": "E"
+      }
+    ]
+  },
+  "energy-forms-and-changes.title": {
+    "value": "Fọọmu Energy ati awon ìyípadà",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629314904556,
+        "oldValue": "",
+        "newValue": "Fọọmu agbára ati awon ìyípadà"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1630507031720,
+        "oldValue": "Fọọmu agbára ati awon ìyípadà",
+        "newValue": "Fọọmu Energy ati awon ìyípadà"
+      }
+    ]
+  },
+  "intro": {
+    "value": "Kàbo",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629314904556,
+        "oldValue": "",
+        "newValue": "Oro isaaju"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1630507031720,
+        "oldValue": "Oro isaaju",
+        "newValue": "Kàbo"
+      }
+    ]
+  },
+  "brick": {
+    "value": "Bíríkì ",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629314904556,
+        "oldValue": "",
+        "newValue": "Bíríkì "
+      }
+    ]
+  },
+  "iron": {
+    "value": "Irin",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629314904556,
+        "oldValue": "",
+        "newValue": "Irin"
+      }
+    ]
+  },
+  "energySymbols": {
+    "value": "Awọn aami Energy",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629314904556,
+        "oldValue": "",
+        "newValue": "Awọn aami agbára"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1630507031720,
+        "oldValue": "Awọn aami agbára",
+        "newValue": "Awọn aami Energy"
+      }
+    ]
+  },
+  "linkHeaters": {
+    "value": "Link Heaters",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629314904556,
+        "oldValue": "",
+        "newValue": "Link Heaters"
+      }
+    ]
+  },
+  "oliveOil": {
+    "value": "Òróró olifi",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629314904556,
+        "oldValue": "",
+        "newValue": "Òróró olifi"
+      }
+    ]
+  },
+  "systems": {
+    "value": "Awọn  ètò",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629314904556,
+        "oldValue": "",
+        "newValue": "Awọn  ètò"
+      }
+    ]
+  },
+  "feedMe": {
+    "value": "Fun mi",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629314904556,
+        "oldValue": "",
+        "newValue": "Fun mi"
+      }
+    ]
+  },
+  "chemical": {
+    "value": "kẹ́míkà",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629314904556,
+        "oldValue": "",
+        "newValue": "kẹ́míkà"
+      }
+    ]
+  },
+  "electrical": {
+    "value": "Elẹ́ktrikà",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629314904556,
+        "oldValue": "",
+        "newValue": "Elẹ́ktrikà"
+      }
+    ]
+  },
+  "formsOfEnergy": {
+    "value": "Fọọmu Energy",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629314904556,
+        "oldValue": "",
+        "newValue": "Fọọmu agbára "
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1630507031720,
+        "oldValue": "Fọọmu agbára ",
+        "newValue": "Fọọmu Energy"
+      }
+    ]
+  },
+  "light": {
+    "value": "Imọlẹ",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629314904556,
+        "oldValue": "",
+        "newValue": "Imọlẹ"
+      }
+    ]
+  },
+  "mechanical": {
+    "value": "Mẹ́kànikà",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629314904556,
+        "oldValue": "",
+        "newValue": "Mẹ́kànikà"
+      }
+    ]
+  },
+  "thermal": {
+    "value": "Thermal",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629314904556,
+        "oldValue": "",
+        "newValue": "Thermal"
+      }
+    ]
+  },
+  "generator": {
+    "value": "Gẹ́nẹ́ratọ",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629314904556,
+        "oldValue": "",
+        "newValue": "Gẹ́nẹ́ratọ"
+      }
+    ]
+  },
+  "clouds": {
+    "value": "Awọsanma",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629314904556,
+        "oldValue": "",
+        "newValue": "Awọsanma"
+      }
+    ]
+  },
+  "lots": {
+    "value": "Ọpọlọpọ",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629314904556,
+        "oldValue": "",
+        "newValue": " Lots"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1630507031720,
+        "oldValue": " Lots",
+        "newValue": "Ọpọlọpọ"
+      }
+    ]
+  },
+  "none": {
+    "value": "kòsi",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629314904556,
+        "oldValue": "",
+        "newValue": "kòsóhun "
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1630507031720,
+        "oldValue": "kòsóhun ",
+        "newValue": "kòsi"
+      }
+    ]
+  }
+}

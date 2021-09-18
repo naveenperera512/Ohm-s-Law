@@ -1,0 +1,719 @@
+{
+  "keyboardHelpDialog.comboBox.popUpListPattern": {
+    "value": "Vyskakovací zoznam {{thingPlural}}",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1619953055967,
+        "oldValue": "",
+        "newValue": "Vyskakovací zoznam {{thingPlural}}"
+      }
+    ]
+  },
+  "keyboardHelpDialog.comboBox.moveThroughPattern": {
+    "value": "Presun na {{thingPlural}}",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1619953055967,
+        "oldValue": "",
+        "newValue": "Presun na {{thingPlural}}"
+      }
+    ]
+  },
+  "keyboardHelpDialog.comboBox.chooseNewPattern": {
+    "value": "Vybrať nové {{thingSingular}}",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1619953055967,
+        "oldValue": "",
+        "newValue": "Vybrať nové {{thingSingular}}"
+      }
+    ]
+  },
+  "keyboardHelpDialog.comboBox.closeWithoutChanging": {
+    "value": "Zatvoriť zoznam bez zmeny",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1619953055967,
+        "oldValue": "",
+        "newValue": "Zatvoriť zoznam bez zmeny"
+      }
+    ]
+  },
+  "key.alt": {
+    "value": "Alt",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1608310495720,
+        "oldValue": "",
+        "newValue": "Alt",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.basicActions": {
+    "value": "Základné akcie",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1546526939697,
+        "oldValue": "",
+        "newValue": "Základné akcie",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.comboBox.chooseAThingPattern": {
+    "value": "Výber {{thingTitle}}",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1619953055967,
+        "oldValue": "",
+        "newValue": "Výber {{thingTitle}}"
+      }
+    ]
+  },
+  "eight": {
+    "value": "osem",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1619953055967,
+        "oldValue": "",
+        "newValue": "osem"
+      }
+    ]
+  },
+  "key.enter": {
+    "value": "Enter",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1548921242165,
+        "oldValue": "",
+        "newValue": "Enter",
+        "explanation": null
+      }
+    ]
+  },
+  "key.esc": {
+    "value": "Esc",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1608310495720,
+        "oldValue": "",
+        "newValue": "Esc",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.exitADialog": {
+    "value": "Koniec dialógu",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1546526939697,
+        "oldValue": "",
+        "newValue": "Koniec dialógu",
+        "explanation": null
+      }
+    ]
+  },
+  "five": {
+    "value": "päť",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1619953055967,
+        "oldValue": "",
+        "newValue": "päť"
+      }
+    ]
+  },
+  "four": {
+    "value": "štyri",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1619953055967,
+        "oldValue": "",
+        "newValue": "štyri"
+      }
+    ]
+  },
+  "keyboardHelpDialog.grabOrReleaseHeadingPattern": {
+    "value": "Chytenie alebo uvoľnenie {{thing}}",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1608469310542,
+        "oldValue": "",
+        "newValue": "Chytenie alebo uvoľnenie {{thing}}",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.grabOrReleaseLabelPattern": {
+    "value": "Chyťte alebo uvoľnite {{thing}}",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1608469310542,
+        "oldValue": "",
+        "newValue": "Chyťte alebo uvoľnite {{thing}}",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.jumpToMaximumPattern": {
+    "value": "Skok na {{maximum}}",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1619953055967,
+        "oldValue": "",
+        "newValue": "Skok na {{maximum}}"
+      }
+    ]
+  },
+  "keyboardHelpDialog.jumpToMinimumPattern": {
+    "value": "Skok na {{minimum}}",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1619953055967,
+        "oldValue": "",
+        "newValue": "Skok na {{minimum}}"
+      }
+    ]
+  },
+  "keyboardHelpDialog.maximum": {
+    "value": "maximum",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1619953055967,
+        "oldValue": "",
+        "newValue": "maximum"
+      }
+    ]
+  },
+  "keyboardHelpDialog.minimum": {
+    "value": "minimum",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1619953055967,
+        "oldValue": "",
+        "newValue": "minimum"
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveBetweenItemsInAGroup": {
+    "value": "Posun medzi položkami v skupine",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1546526939697,
+        "oldValue": "",
+        "newValue": "Posun medzi položkami v skupine",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveToNextItemOrGroup": {
+    "value": "Posun na ďalšiu položku alebo skupinu",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1546526939697,
+        "oldValue": "",
+        "newValue": "Posun na ďalšiu položku alebo skupinu",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveToPreviousItemOrGroup": {
+    "value": "Posun na predchádzajúcu položku alebo skupinu",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1546526939697,
+        "oldValue": "",
+        "newValue": "Posun na predchádzajúcu položku alebo skupinu",
+        "explanation": null
+      }
+    ]
+  },
+  "nine": {
+    "value": "deväť",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1619953055967,
+        "oldValue": "",
+        "newValue": "deväť"
+      }
+    ]
+  },
+  "one": {
+    "value": "jedna",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1619953055967,
+        "oldValue": "",
+        "newValue": "jedna"
+      }
+    ]
+  },
+  "keyboardHelpDialog.comboBox.option": {
+    "value": "možnosť",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1619953055967,
+        "oldValue": "",
+        "newValue": "možnosť"
+      }
+    ]
+  },
+  "keyboardHelpDialog.comboBox.options": {
+    "value": "možnosti",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1619953055967,
+        "oldValue": "",
+        "newValue": "možnosti"
+      }
+    ]
+  },
+  "keyboardHelpDialog.or": {
+    "value": "alebo",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1546526939697,
+        "oldValue": "",
+        "newValue": "alebo",
+        "explanation": null
+      }
+    ]
+  },
+  "key.pageDown": {
+    "value": "Pg Dn",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1548921242165,
+        "oldValue": "",
+        "newValue": "Pg Dn",
+        "explanation": null
+      }
+    ]
+  },
+  "key.pageUp": {
+    "value": " Pg Up",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1548921242165,
+        "oldValue": "",
+        "newValue": " Pg Up",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.pressButtons": {
+    "value": "Stlačenie tlačidla",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1546526939697,
+        "oldValue": "",
+        "newValue": "Stlačenie tlačidla",
+        "explanation": null
+      }
+    ]
+  },
+  "seven": {
+    "value": "sedem ",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1619953055967,
+        "oldValue": "",
+        "newValue": "sedem "
+      }
+    ]
+  },
+  "key.shift": {
+    "value": "Shift",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1548921242165,
+        "oldValue": "",
+        "newValue": "Shift",
+        "explanation": null
+      }
+    ]
+  },
+  "six": {
+    "value": "šesť ",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1619953055967,
+        "oldValue": "",
+        "newValue": "šesť "
+      }
+    ]
+  },
+  "keyboardHelpDialog.slider": {
+    "value": "posuvník",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1619953055967,
+        "oldValue": "",
+        "newValue": "posuvník"
+      }
+    ]
+  },
+  "key.space": {
+    "value": "Medzera",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1548921242165,
+        "oldValue": "",
+        "newValue": "Medzera",
+        "explanation": null
+      }
+    ]
+  },
+  "key.tab": {
+    "value": "Tab",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1548921242165,
+        "oldValue": "",
+        "newValue": "Tab",
+        "explanation": null
+      }
+    ]
+  },
+  "ten": {
+    "value": "desať",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1619953055967,
+        "oldValue": "",
+        "newValue": "desať"
+      }
+    ]
+  },
+  "three": {
+    "value": "tri",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1619953055967,
+        "oldValue": "",
+        "newValue": "tri"
+      }
+    ]
+  },
+  "keyboardHelpDialog.toggleCheckboxes": {
+    "value": "Prepnutie začiarkavacieho políčka ",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1619953055967,
+        "oldValue": "",
+        "newValue": "Prepnutie začiarkavacieho políčka "
+      }
+    ]
+  },
+  "two": {
+    "value": "dva",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1619953055967,
+        "oldValue": "",
+        "newValue": "dva"
+      }
+    ]
+  },
+  "zero": {
+    "value": "nula",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1619953055967,
+        "oldValue": "",
+        "newValue": "nula"
+      }
+    ]
+  },
+  "keyboardHelpDialog.verbInLargerStepsPattern": {
+    "value": "{{verb}} po veľkých krokoch",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1619953055967,
+        "oldValue": "",
+        "newValue": "{{verb}} po veľkých krokoch"
+      }
+    ]
+  },
+  "keyboardHelpDialog.verbInSmallerStepsPattern": {
+    "value": "{{verb}} po malých krokoch",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1619953055967,
+        "oldValue": "",
+        "newValue": "{{verb}} po malých krokoch"
+      }
+    ]
+  },
+  "keyboardHelpDialog.verbSliderPattern": {
+    "value": "{{verb}} {{slider}}",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1619953055967,
+        "oldValue": "",
+        "newValue": "{{verb}} {{slider}}"
+      }
+    ]
+  },
+  "symbol.resistivity": {
+    "value": "ρ",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1548921242165,
+        "oldValue": "",
+        "newValue": "ρ",
+        "explanation": null
+      }
+    ]
+  },
+  "symbol.ohms": {
+    "value": " Ω",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1548921242165,
+        "oldValue": "",
+        "newValue": " Ω",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveToNextItem": {
+    "value": "Posun na ďalšiu položku",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1546526939697,
+        "oldValue": "",
+        "newValue": "Posun na ďalšiu položku",
+        "explanation": null
+      }
+    ]
+  },
+  "keyboardHelpDialog.moveToPreviousItem": {
+    "value": "Posun na predchádzajúcu položku",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1546526939697,
+        "oldValue": "",
+        "newValue": "Posun na predchádzajúcu položku",
+        "explanation": null
+      }
+    ]
+  },
+  "key.k": {
+    "value": "K",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1608310495720,
+        "oldValue": "",
+        "newValue": "K",
+        "explanation": null
+      }
+    ]
+  },
+  "key.l": {
+    "value": "L",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1608310495720,
+        "oldValue": "",
+        "newValue": "L",
+        "explanation": null
+      }
+    ]
+  },
+  "speed.normal": {
+    "value": "Normálne",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1546535263326,
+        "oldValue": "",
+        "newValue": "Normálne",
+        "explanation": null
+      }
+    ]
+  },
+  "speed.slow": {
+    "value": "Spomalene",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1546535263326,
+        "oldValue": "",
+        "newValue": "Spomalene",
+        "explanation": null
+      }
+    ]
+  },
+  "measuringTapeReadoutPattern": {
+    "value": "{{distance}} {{units}}",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1608310495720,
+        "oldValue": "",
+        "newValue": "{{distance}} {{units}}",
+        "explanation": null
+      }
+    ]
+  },
+  "stopwatchValueUnitsPattern": {
+    "value": "{{value}} {{units}}",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1608310495720,
+        "oldValue": "",
+        "newValue": "{{value}} {{units}}",
+        "explanation": null
+      }
+    ]
+  },
+  "frequencyUnitsPattern": {
+    "value": "{{frequency}} THz",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1548921242165,
+        "oldValue": "",
+        "newValue": "{{frequency}} THz",
+        "explanation": null
+      }
+    ]
+  },
+  "cool": {
+    "value": "Chladiť",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1482999030702,
+        "oldValue": "",
+        "newValue": "Chladiť",
+        "explanation": null
+      }
+    ]
+  },
+  "heat": {
+    "value": "Ohrievať",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1482999030702,
+        "oldValue": "",
+        "newValue": "Ohrievať",
+        "explanation": null
+      }
+    ]
+  },
+  "shortCircuit": {
+    "value": "Skrat!",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1457054667621,
+        "oldValue": "",
+        "newValue": "Skrat!",
+        "explanation": null
+      }
+    ]
+  },
+  "units_nm": {
+    "value": "nm",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1456784899545,
+        "oldValue": "",
+        "newValue": "nm",
+        "explanation": null
+      }
+    ]
+  },
+  "webglWarning.contextLossFailure": {
+    "value": "Prepáčte, došlo k chybe v grafike",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1457040698574,
+        "oldValue": "",
+        "newValue": "Prepáčte, došlo k chybe v grafike",
+        "explanation": null
+      }
+    ]
+  },
+  "webglWarning.contextLossReload": {
+    "value": "Opäť načítať",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1457040698574,
+        "oldValue": "",
+        "newValue": "Opäť načítať",
+        "explanation": null
+      }
+    ]
+  },
+  "webglWarning.title": {
+    "value": "Spustiť s nízkou kvalitou grafiky",
+    "history": [
+      {
+        "userId": 134140,
+        "timestamp": 1457049690266,
+        "oldValue": "",
+        "newValue": "Spustiť s nízkou kvalitou grafiky",
+        "explanation": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "b": {
+    "value": "B",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629222154630,
+        "oldValue": "",
+        "newValue": "B"
+      }
+    ]
+  },
+  "g": {
+    "value": "G",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629222154630,
+        "oldValue": "",
+        "newValue": "G"
+      }
+    ]
+  },
+  "r": {
+    "value": "R",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629222154630,
+        "oldValue": "",
+        "newValue": "R"
+      }
+    ]
+  },
+  "graphValues": {
+    "value": "Awọn Value Graph",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629222154630,
+        "oldValue": "",
+        "newValue": "Graph Values"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1630446977764,
+        "oldValue": "Graph Values",
+        "newValue": "Awọn Graph Value"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1630447491832,
+        "oldValue": "Awọn Graph Value",
+        "newValue": "Awọn Value Graph"
+      }
+    ]
+  },
+  "intensityUnitsLabel": {
+    "value": "{{intensity}} W/m<sup>2</sup>",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629222154630,
+        "oldValue": "",
+        "newValue": "{{intensity}} W/m<sup>2</sup>"
+      }
+    ]
+  },
+  "intensity": {
+    "value": "Intensity",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629222154630,
+        "oldValue": "",
+        "newValue": "Intensity"
+      }
+    ]
+  },
+  "labels": {
+    "value": "Awọn aami",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629222154630,
+        "oldValue": "",
+        "newValue": "Awọn aami"
+      }
+    ]
+  },
+  "earth": {
+    "value": "Earth",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629222154630,
+        "oldValue": "",
+        "newValue": "Earth"
+      }
+    ]
+  },
+  "lightBulb": {
+    "value": "Gilobu ina",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629222154630,
+        "oldValue": "",
+        "newValue": "Gilobu ina"
+      }
+    ]
+  },
+  "siriusA": {
+    "value": "Sirius A",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629222154630,
+        "oldValue": "",
+        "newValue": "Sirius A"
+      }
+    ]
+  },
+  "sun": {
+    "value": "Òòrùn",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629222154630,
+        "oldValue": "",
+        "newValue": "Òòrùn"
+      }
+    ]
+  },
+  "wavelengthLabel": {
+    "value": " Wavelength (µm)",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629222154630,
+        "oldValue": "",
+        "newValue": " Wavelength (µm)"
+      }
+    ]
+  },
+  "subtitleLabel": {
+    "value": "1 µm = 1000 nm",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629222154630,
+        "oldValue": "",
+        "newValue": "1 µm = 1000 nm"
+      }
+    ]
+  },
+  "spectralPowerDensityLabel": {
+    "value": "Spectral Power Density (MW/m²/µm)",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629222154630,
+        "oldValue": "",
+        "newValue": "Spectral Power Density (MW/m²/µm)"
+      }
+    ]
+  },
+  "xRay": {
+    "value": "X-Ray",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629222154630,
+        "oldValue": "",
+        "newValue": "X-Ray"
+      }
+    ]
+  },
+  "ultraviolet": {
+    "value": "Ultraviolet",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629222154630,
+        "oldValue": "",
+        "newValue": "Ultraviolet"
+      }
+    ]
+  },
+  "visible": {
+    "value": "Visible",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629222154630,
+        "oldValue": "",
+        "newValue": "Fihan"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1630446977765,
+        "oldValue": "Fihan",
+        "newValue": "Visible"
+      }
+    ]
+  },
+  "infrared": {
+    "value": "Infurarẹẹdi",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629222154630,
+        "oldValue": "",
+        "newValue": "Infurarẹẹdi"
+      }
+    ]
+  },
+  "kelvinUnits": {
+    "value": "K",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629222154630,
+        "oldValue": "",
+        "newValue": "K"
+      }
+    ]
+  },
+  "blackbodyTemperature": {
+    "value": "Itutu<br>Blackbody",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629222154630,
+        "oldValue": "",
+        "newValue": "Blackbody<br>Otutu"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1630446977765,
+        "oldValue": "Blackbody<br>Otutu",
+        "newValue": "Itutu<br>Blackbody"
+      }
+    ]
+  },
+  "blackbody-spectrum.title": {
+    "value": "Spectrum Ara dúdú",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629222154630,
+        "oldValue": "",
+        "newValue": "Blackbody Spectrum"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1630447491832,
+        "oldValue": "Blackbody Spectrum",
+        "newValue": "Spectrum Ara dúdú"
+      }
+    ]
+  }
+}

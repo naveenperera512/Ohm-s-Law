@@ -1,0 +1,481 @@
+{
+  "menuItem.about": {
+    "value": "Tentang simulasi",
+    "history": [
+      {
+        "userId": 158829,
+        "timestamp": 1473833963061,
+        "oldValue": "",
+        "newValue": "Tentang Simulasi",
+        "explanation": null
+      },
+      {
+        "userId": 951608,
+        "timestamp": 1623230863692,
+        "oldValue": "Tentang Simulasi",
+        "newValue": "Tentang simulasi"
+      }
+    ]
+  },
+  "menuItem.getUpdate": {
+    "value": "Semak kemas kini...",
+    "history": [
+      {
+        "userId": 158829,
+        "timestamp": 1473833963061,
+        "oldValue": "",
+        "newValue": "Semak kemas kini...",
+        "explanation": null
+      }
+    ]
+  },
+  "updates.checking": {
+    "value": "Sedang menyemak kemas kini...",
+    "history": [
+      {
+        "userId": 158829,
+        "timestamp": 1473833963061,
+        "oldValue": "",
+        "newValue": "Sedang menyemak kemas kini...",
+        "explanation": null
+      }
+    ]
+  },
+  "credits.contributors": {
+    "value": "Penyumbang: {0}",
+    "history": [
+      {
+        "userId": 951608,
+        "timestamp": 1623230863692,
+        "oldValue": "",
+        "newValue": "Penyumbang: {0}"
+      }
+    ]
+  },
+  "credits.title": {
+    "value": "Penghargaan",
+    "history": [
+      {
+        "userId": 158829,
+        "timestamp": 1473833963061,
+        "oldValue": "",
+        "newValue": "Hak Cipta",
+        "explanation": null
+      },
+      {
+        "userId": 951608,
+        "timestamp": 1623230863692,
+        "oldValue": "Hak Cipta",
+        "newValue": "Penghargaan"
+      }
+    ]
+  },
+  "menuItem.fullscreen": {
+    "value": "Layar Penuh",
+    "history": [
+      {
+        "userId": 158829,
+        "timestamp": 1473833963061,
+        "oldValue": "",
+        "newValue": "Layar Penuh",
+        "explanation": null
+      }
+    ]
+  },
+  "updates.getUpdate": {
+    "value": "Dapatkan kemas kini...",
+    "history": [
+      {
+        "userId": 158829,
+        "timestamp": 1473833963061,
+        "oldValue": "",
+        "newValue": "Dapatkan Kemas Kini",
+        "explanation": null
+      },
+      {
+        "userId": 951608,
+        "timestamp": 1623230863692,
+        "oldValue": "Dapatkan Kemas Kini",
+        "newValue": "Dapatkan kemas kini..."
+      }
+    ]
+  },
+  "credits.graphicArts": {
+    "value": "Seni Grafik: {0}",
+    "history": [
+      {
+        "userId": 951608,
+        "timestamp": 1623232361627,
+        "oldValue": "",
+        "newValue": "Seni Grafik: {0}"
+      }
+    ]
+  },
+  "keyboardShortcuts.title": {
+    "value": "Pintasan papan kekunci",
+    "history": [
+      {
+        "userId": 951608,
+        "timestamp": 1623563824114,
+        "oldValue": "",
+        "newValue": "Pintasan papan kekunci"
+      }
+    ]
+  },
+  "credits.leadDesign": {
+    "value": "Ketua Rekaan: {0}",
+    "history": [
+      {
+        "userId": 158829,
+        "timestamp": 1474732029819,
+        "oldValue": "",
+        "newValue": "Ketua Reka Bentuk: {0}",
+        "explanation": null
+      },
+      {
+        "userId": 951608,
+        "timestamp": 1623230863692,
+        "oldValue": "Ketua Reka Bentuk: {0}",
+        "newValue": "Ketua Rekaan: {0}"
+      }
+    ]
+  },
+  "updates.outOfDate": {
+    "value": "Dapatkan versi baru",
+    "history": [
+      {
+        "userId": 158829,
+        "timestamp": 1473833963061,
+        "oldValue": "",
+        "newValue": "Ada Versi Terkini",
+        "explanation": null
+      },
+      {
+        "userId": 951608,
+        "timestamp": 1623230863692,
+        "oldValue": "Ada Versi Terkini",
+        "newValue": "Dapatkan versi baru"
+      }
+    ]
+  },
+  "updates.noThanks": {
+    "value": "Tidak mengapa",
+    "history": [
+      {
+        "userId": 158829,
+        "timestamp": 1473833963061,
+        "oldValue": "",
+        "newValue": "Tidak, Terima Kasih",
+        "explanation": null
+      },
+      {
+        "userId": 951608,
+        "timestamp": 1623230863692,
+        "oldValue": "Tidak, Terima Kasih",
+        "newValue": "Tidak mengapa"
+      }
+    ]
+  },
+  "options.title": {
+    "value": "Pilihan",
+    "history": [
+      {
+        "userId": 158829,
+        "timestamp": 1473833963061,
+        "oldValue": "",
+        "newValue": "Pilihan",
+        "explanation": null
+      }
+    ]
+  },
+  "menuItem.options": {
+    "value": "Pilihan...",
+    "history": [
+      {
+        "userId": 158829,
+        "timestamp": 1473833963061,
+        "oldValue": "",
+        "newValue": "Pilihan...",
+        "explanation": null
+      }
+    ]
+  },
+  "menuItem.phetWebsite": {
+    "value": "Laman Web PhET",
+    "history": [
+      {
+        "userId": 158829,
+        "timestamp": 1473833963061,
+        "oldValue": "",
+        "newValue": "Laman Web PhET",
+        "explanation": null
+      }
+    ]
+  },
+  "credits.qualityAssurance": {
+    "value": "Jaminan Kualiti: {0}",
+    "history": [
+      {
+        "userId": 951608,
+        "timestamp": 1623232361627,
+        "oldValue": "",
+        "newValue": "Jaminan Kualiti: {0}"
+      }
+    ]
+  },
+  "menuItem.reportAProblem": {
+    "value": "Laporkan Masalah...",
+    "history": [
+      {
+        "userId": 158829,
+        "timestamp": 1473833963061,
+        "oldValue": "",
+        "newValue": "Lapor Masalah",
+        "explanation": null
+      },
+      {
+        "userId": 951608,
+        "timestamp": 1623230863692,
+        "oldValue": "Lapor Masalah",
+        "newValue": "Laporkan Masalah..."
+      }
+    ]
+  },
+  "menuItem.screenshot": {
+    "value": "Tangkap Layar",
+    "history": [
+      {
+        "userId": 158829,
+        "timestamp": 1473833963061,
+        "oldValue": "",
+        "newValue": "Tangkap Layar",
+        "explanation": null
+      }
+    ]
+  },
+  "credits.softwareDevelopment": {
+    "value": "Pembangunan Aplikasi: {0}",
+    "history": [
+      {
+        "userId": 158829,
+        "timestamp": 1473838915121,
+        "oldValue": "",
+        "newValue": "Pembangunan Aplikasi: {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "credits.team": {
+    "value": "Ahli Kumpulan:{0}",
+    "history": [
+      {
+        "userId": 158829,
+        "timestamp": 1473833963061,
+        "oldValue": "",
+        "newValue": "Tim:{0}",
+        "explanation": null
+      },
+      {
+        "userId": 951608,
+        "timestamp": 1623230863692,
+        "oldValue": "Tim:{0}",
+        "newValue": "Ahli Kumpulan:{0}"
+      }
+    ]
+  },
+  "termsPrivacyAndLicensing": {
+    "value": "Terma, Privasi & Pelesenan",
+    "history": [
+      {
+        "userId": 158829,
+        "timestamp": 1473833963061,
+        "oldValue": "",
+        "newValue": "Terma, Privasi & Pelesenan",
+        "explanation": null
+      }
+    ]
+  },
+  "credits.thanks": {
+    "value": "Terima Kasih",
+    "history": [
+      {
+        "userId": 158829,
+        "timestamp": 1473833963061,
+        "oldValue": "",
+        "newValue": "Terima Kasih",
+        "explanation": null
+      }
+    ]
+  },
+  "updates.newVersionAvailable": {
+    "value": "Terdapat versi baru: {0}",
+    "history": [
+      {
+        "userId": 158829,
+        "timestamp": 1473838915121,
+        "oldValue": "",
+        "newValue": "Tiada versi terbaru: {0}",
+        "explanation": null
+      },
+      {
+        "userId": 951608,
+        "timestamp": 1623230863692,
+        "oldValue": "Tiada versi terbaru: {0}",
+        "newValue": "Terdapat versi baru: {0}"
+      }
+    ]
+  },
+  "thirdParty.credits.link": {
+    "value": "Hak Cipta Pihak Ketiga",
+    "history": [
+      {
+        "userId": 158829,
+        "timestamp": 1473833963061,
+        "oldValue": "",
+        "newValue": "Hak Cipta Pihak Ketiga",
+        "explanation": null
+      }
+    ]
+  },
+  "updates.upToDate": {
+    "value": "Simulasi ini sudah dikemas kini.",
+    "history": [
+      {
+        "userId": 158829,
+        "timestamp": 1473833963061,
+        "oldValue": "",
+        "newValue": "Simulasi ini sudah dikemas kini",
+        "explanation": null
+      },
+      {
+        "userId": 951608,
+        "timestamp": 1623230863692,
+        "oldValue": "Simulasi ini sudah dikemas kini",
+        "newValue": "Simulasi ini sudah dikemas kini."
+      }
+    ]
+  },
+  "keyboardShortcuts.toGetStarted": {
+    "value": "untuk mula",
+    "history": [
+      {
+        "userId": 951608,
+        "timestamp": 1623905556076,
+        "oldValue": "",
+        "newValue": "untuk mula"
+      }
+    ]
+  },
+  "credits.translation": {
+    "value": "Terjemahan",
+    "history": [
+      {
+        "userId": 158829,
+        "timestamp": 1473833963061,
+        "oldValue": "",
+        "newValue": "Terjemahan",
+        "explanation": null
+      }
+    ]
+  },
+  "translation.credits.link": {
+    "value": "Hak Cipta Terjemahan",
+    "history": [
+      {
+        "userId": 158829,
+        "timestamp": 1473833963061,
+        "oldValue": "",
+        "newValue": "Hak Cipta Terjemahan",
+        "explanation": null
+      }
+    ]
+  },
+  "updates.offline": {
+    "value": "Tidak boleh menyemak kemas kini.",
+    "history": [
+      {
+        "userId": 158829,
+        "timestamp": 1473833963061,
+        "oldValue": "",
+        "newValue": "Tidak boleh menyemak kemas kini.",
+        "explanation": null
+      }
+    ]
+  },
+  "versionPattern": {
+    "value": "versi {0}",
+    "history": [
+      {
+        "userId": 158829,
+        "timestamp": 1473833963061,
+        "oldValue": "",
+        "newValue": "Versi {0}",
+        "explanation": null
+      },
+      {
+        "userId": 951608,
+        "timestamp": 1624012826823,
+        "oldValue": "Versi {0}",
+        "newValue": "versi {0}"
+      }
+    ]
+  },
+  "updates.yourCurrentVersion": {
+    "value": "Versi terkini anda ialah: {0}",
+    "history": [
+      {
+        "userId": 158829,
+        "timestamp": 1473833963061,
+        "oldValue": "",
+        "newValue": "Versi terkini anda ialah: {0}",
+        "explanation": null
+      }
+    ]
+  },
+  "queryParametersWarningDialog.theSimulationWillStart": {
+    "value": "Simulasi dimulakan dengan nilai tetap<br>bagi parameter yang diberi.",
+    "history": [
+      {
+        "userId": 951608,
+        "timestamp": 1623834898806,
+        "oldValue": "",
+        "newValue": "Simulasi dimulakan dengan nilai tetap<br>bagi parameter yang diberi."
+      }
+    ]
+  },
+  "done": {
+    "value": "Selesai",
+    "history": [
+      {
+        "userId": 951608,
+        "timestamp": 1623250688207,
+        "oldValue": "",
+        "newValue": "Selesai"
+      }
+    ]
+  },
+  "title.settings": {
+    "value": "Tetapan",
+    "history": [
+      {
+        "userId": 158829,
+        "timestamp": 1473833963061,
+        "oldValue": "",
+        "newValue": "Tetapan",
+        "explanation": null
+      }
+    ]
+  },
+  "menuItem.settings": {
+    "value": "Tetapan...",
+    "history": [
+      {
+        "userId": 158829,
+        "timestamp": 1473833963061,
+        "oldValue": "",
+        "newValue": "Tetapan...",
+        "explanation": null
+      }
+    ]
+  }
+}

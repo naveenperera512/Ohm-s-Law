@@ -1,0 +1,88 @@
+{
+  "screen.buildAFraction": {
+    "value": "Kọ Fraction kàn",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629222360659,
+        "oldValue": "",
+        "newValue": "Kọ Ida kan"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1630447741660,
+        "oldValue": "Kọ Ida kan",
+        "newValue": "Kọ Fraction kan"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1630488573995,
+        "oldValue": "Kọ Fraction kan",
+        "newValue": "Kọ Fraction kàn"
+      }
+    ]
+  },
+  "screen.lab": {
+    "value": "Làbú",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629222360659,
+        "oldValue": "",
+        "newValue": "Yàrà  ìwádìí"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1630447741660,
+        "oldValue": "Yàrà  ìwádìí",
+        "newValue": "Lab"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1630488573995,
+        "oldValue": "Lab",
+        "newValue": "Làbú"
+      }
+    ]
+  },
+  "screen.mixedNumbers": {
+    "value": "Awọn Mixed nọmba",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629222360659,
+        "oldValue": "",
+        "newValue": "Adalu Awọn nọmba"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1630447741660,
+        "oldValue": "Adalu Awọn nọmba",
+        "newValue": "Awọn Mixed nọmba"
+      }
+    ]
+  },
+  "build-a-fraction.title": {
+    "value": "Kọ Fraction kàn",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629222360659,
+        "oldValue": "",
+        "newValue": "Kọ Ida kan"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1630447741660,
+        "oldValue": "Kọ Ida kan",
+        "newValue": "Kọ Fraction kan"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1630488573995,
+        "oldValue": "Kọ Fraction kan",
+        "newValue": "Kọ Fraction kàn"
+      }
+    ]
+  }
+}

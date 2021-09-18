@@ -1,0 +1,437 @@
+{
+  "menuItem.about": {
+    "value": "ስለ",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626535722091,
+        "oldValue": "",
+        "newValue": "ስለ"
+      }
+    ]
+  },
+  "menuItem.getUpdate": {
+    "value": "ማሻሻያ ካለ አረጋግጥ።",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626535722091,
+        "oldValue": "",
+        "newValue": "ማሻሻያ ካለ አረጋግጥ።"
+      }
+    ]
+  },
+  "updates.checking": {
+    "value": "ማሻሻያ መኖሩን እያረጋገጥኩ ነው። ",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626535722091,
+        "oldValue": "",
+        "newValue": "ማሻሻያ መኖሩን እያረጋገጥኩ ነው። "
+      }
+    ]
+  },
+  "credits.title": {
+    "value": "ምስጋና",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626535722091,
+        "oldValue": "",
+        "newValue": "ምስጋና"
+      }
+    ]
+  },
+  "menuItem.enhancedSound": {
+    "value": "የተሻሻለ የድምፅ ቅጂ",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626591585357,
+        "oldValue": "",
+        "newValue": "የተሻሻለ የድምፅ ቅጂ"
+      }
+    ]
+  },
+  "menuItem.fullscreen": {
+    "value": "የሙሉ ሰሌዳ እይታ",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626535722091,
+        "oldValue": "",
+        "newValue": "በሙሉ ሰሌዳ እይታ"
+      },
+      {
+        "userId": 133844,
+        "timestamp": 1631709165559,
+        "oldValue": "በሙሉ ሰሌዳ እይታ",
+        "newValue": "የሙሉ ሰሌዳ እይታ"
+      }
+    ]
+  },
+  "updates.getUpdate": {
+    "value": "ማሻሻያውን አግኝ።",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626535722091,
+        "oldValue": "",
+        "newValue": "ማሻሻያውን አግኝ።"
+      }
+    ]
+  },
+  "credits.graphicArts": {
+    "value": "ግራፊካል አርት{0}",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626535722091,
+        "oldValue": "",
+        "newValue": "ግራፊካል አርት{0}"
+      }
+    ]
+  },
+  "credits.leadDesign": {
+    "value": "መሪ ዲሳይነር{0}",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626535722091,
+        "oldValue": "",
+        "newValue": "መሪ ዲሳይነር{0}"
+      }
+    ]
+  },
+  "menuItem.mailInputEventsLog": {
+    "value": "የመልዕክት ግብዓት ክንውን ዝርዝር",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626535722091,
+        "oldValue": "",
+        "newValue": "የመልዕክት ግብዓት ክንውን ዝርዝር"
+      }
+    ]
+  },
+  "updates.outOfDate": {
+    "value": "አዲስ ቅጂ አለ። ",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626535722091,
+        "oldValue": "",
+        "newValue": "አዲስ ቅጂ አለ። "
+      }
+    ]
+  },
+  "updates.noThanks": {
+    "value": "አልፈልግም።",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626535722091,
+        "oldValue": "",
+        "newValue": "አልፈልግም።"
+      }
+    ]
+  },
+  "options.title": {
+    "value": "አማራጮች",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626535722091,
+        "oldValue": "",
+        "newValue": "አማራጮች"
+      }
+    ]
+  },
+  "menuItem.options": {
+    "value": "አማራጮች",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626535722091,
+        "oldValue": "",
+        "newValue": "አማራጮች"
+      }
+    ]
+  },
+  "menuItem.outputInputEventsLog": {
+    "value": "የምርት ግብዓት ክንውን ዝርዝር  ",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626535722091,
+        "oldValue": "",
+        "newValue": "የምርት ግብዓት ክንውን ዝርዝር  "
+      }
+    ]
+  },
+  "menuItem.phetWebsite": {
+    "value": "ፌት ዌብሳይት",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626535722091,
+        "oldValue": "",
+        "newValue": "ፌት ዌብሳይት"
+      }
+    ]
+  },
+  "credits.qualityAssurance": {
+    "value": "የጥራት ማረጋገጫ{0}",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626535722091,
+        "oldValue": "",
+        "newValue": "የጥራት ማረጋገጫ{0}"
+      }
+    ]
+  },
+  "menuItem.reportAProblem": {
+    "value": "ችግሩን አመልክት።",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626535722091,
+        "oldValue": "",
+        "newValue": "ችግሩን አመልክት።"
+      }
+    ]
+  },
+  "menuItem.screenshot": {
+    "value": "ሰሌዳ ማንሻ (ፎቶ)",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626535722091,
+        "oldValue": "",
+        "newValue": "ሰሌዳ ማንሻ (ፎቶ)"
+      }
+    ]
+  },
+  "credits.softwareDevelopment": {
+    "value": "የሶፍትዌር አዘገጃጀት{0}",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626535722091,
+        "oldValue": "",
+        "newValue": "የሶፍትዌር አዘገጃጀት{0}"
+      }
+    ]
+  },
+  "credits.soundDesign": {
+    "value": "የድምፅ አቀናባሪ {0}",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626591585357,
+        "oldValue": "",
+        "newValue": "የድምፅ አቀናባሪ {0}"
+      }
+    ]
+  },
+  "menuItem.submitInputEventsLog": {
+    "value": "የክንውን ዝርዝር አቅርብ",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626535722091,
+        "oldValue": "",
+        "newValue": "የክንውን ዝርዝር አቅርብ"
+      }
+    ]
+  },
+  "credits.team": {
+    "value": "ቡድን{0}",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626535722091,
+        "oldValue": "",
+        "newValue": "ቡድን{0}"
+      }
+    ]
+  },
+  "termsPrivacyAndLicensing": {
+    "value": "ህጋዊ ጉዳዮች",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626535722091,
+        "oldValue": "",
+        "newValue": "ህጋዊ ጉዳዮች"
+      }
+    ]
+  },
+  "credits.thanks": {
+    "value": "አመሰግናለሁ።",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626535722091,
+        "oldValue": "",
+        "newValue": "አመሰግናለሁ።"
+      }
+    ]
+  },
+  "updates.newVersionAvailable": {
+    "value": "አዲስ ቅጂ እዚህ ይገኛል።{0}",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626535722091,
+        "oldValue": "",
+        "newValue": "አዲስ ቅጂ እዚህ ይገኛል።{0}"
+      }
+    ]
+  },
+  "thirdParty.credits.link": {
+    "value": "ሶስተኛ ወገን",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626535722091,
+        "oldValue": "",
+        "newValue": "ሶስተኛ ወገን"
+      }
+    ]
+  },
+  "updates.upToDate": {
+    "value": "ይህ ሲሙሌሽን የቅርብ ጊዜ ነው።",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626535722091,
+        "oldValue": "",
+        "newValue": "ይህ ሲሙሌሽን የቅርብ ጊዜ ነው።"
+      }
+    ]
+  },
+  "keyboardShortcuts.toGetStarted": {
+    "value": "ለመጀመር",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626591585357,
+        "oldValue": "",
+        "newValue": "ለመጀመር"
+      }
+    ]
+  },
+  "credits.translation": {
+    "value": "ትርጉም",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626535722091,
+        "oldValue": "",
+        "newValue": "ትርጉም"
+      }
+    ]
+  },
+  "translation.credits.link": {
+    "value": "ለትርጉሙ ተመስጋኝ",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626535722091,
+        "oldValue": "",
+        "newValue": "ለትርጉሙ ተመስጋኝ"
+      }
+    ]
+  },
+  "updates.offline": {
+    "value": "ማሻሻያ መኖሩን ማረጋገጥ አልቻልኩም።",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626535722091,
+        "oldValue": "",
+        "newValue": "ማሻሻያ መኖሩን ማረጋገጥ አልቻልኩም።"
+      }
+    ]
+  },
+  "versionPattern": {
+    "value": "ቅጂ {0}",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626535722091,
+        "oldValue": "",
+        "newValue": "ቅጂ {0}"
+      }
+    ]
+  },
+  "updates.yourCurrentVersion": {
+    "value": "ይህ የተሻሻለው ቅጂ ነው።{0}",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626535722091,
+        "oldValue": "",
+        "newValue": "ይህ የተሻሻለው ቅጂ ነው።{0}"
+      }
+    ]
+  },
+  "ieErrorPage.ieIsNotSupported": {
+    "value": "በኢንተርኔት ኤክስፕሎረር የማይታገዝ ነው።",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626591585357,
+        "oldValue": "",
+        "newValue": "በኢንተርኔት ኤክስፕሎረር የማይታገዝ ነው።"
+      }
+    ]
+  },
+  "ieErrorPage.useDifferentBrowser": {
+    "value": "ይህንን ሲሙሌሽን ለማየት ሌላ የፍለጋ መተግበሪያ ይጠቀሙ።",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626591585357,
+        "oldValue": "",
+        "newValue": "ይህንን ሲሙሌሽን ለማየት ሌላ የፍለጋ መተግበሪያ ይጠቀሙ።"
+      }
+    ]
+  },
+  "done": {
+    "value": "ተከናውኗል።",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626535722091,
+        "oldValue": "",
+        "newValue": "ተከናውኗል።"
+      }
+    ]
+  },
+  "title.settings": {
+    "value": "አውድ",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626535722091,
+        "oldValue": "",
+        "newValue": "አውድ"
+      }
+    ]
+  },
+  "showPointers": {
+    "value": "ጠቋሚዋችን አሳይ።",
+    "history": [
+      {
+        "userId": 133844,
+        "timestamp": 1626535722091,
+        "oldValue": "",
+        "newValue": "ጠቋሚዋችን አሳይ።"
+      }
+    ]
+  }
+}

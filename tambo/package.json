@@ -1,0 +1,32 @@
+{
+  "name": "tambo",
+  "version": "1.0.0-dev.16",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/phetsims/tambo.git"
+  },
+  "devDependencies": {
+    "grunt": "~1.4.0"
+  },
+  "phet": {
+    "requirejsNamespace": "TAMBO",
+    "phetLibs": [
+      "vegas"
+    ],
+    "runnable": true,
+    "supportedBrands": [
+      "phet",
+      "adapted-from-phet"
+    ],
+    "simFeatures": {
+      "supportsSound": true,
+      "supportsEnhancedSound": true,
+      "supportsInteractiveDescription": true
+    },
+    "supportsOutputJS": true
+  },
+  "eslintConfig": {
+    "extends": "../chipper/eslint/sim_eslintrc.js"
+  }
+}

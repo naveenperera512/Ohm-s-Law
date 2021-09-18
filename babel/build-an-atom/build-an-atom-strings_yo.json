@@ -1,0 +1,428 @@
+{
+  "element": {
+    "value": "Ẹ̀lemẹ́nt",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629234271285,
+        "oldValue": "",
+        "newValue": "Element"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1630489381587,
+        "oldValue": "Element",
+        "newValue": "Ẹ̀lemẹ́nt"
+      }
+    ]
+  },
+  "neutralSlashIon": {
+    "value": "Neutral/Ion",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629234271285,
+        "oldValue": "",
+        "newValue": "Neutral/Ion"
+      }
+    ]
+  },
+  "stableSlashUnstable": {
+    "value": "Iduroṣinṣin/Aiduroṣinṣin",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629234271285,
+        "oldValue": "",
+        "newValue": "Iduroṣinṣin/Aiduroṣinṣin"
+      }
+    ]
+  },
+  "show": {
+    "value": "Fihàn",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629234271285,
+        "oldValue": "",
+        "newValue": "Fihan"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1630494919455,
+        "oldValue": "Fihan",
+        "newValue": "Fihàn"
+      }
+    ]
+  },
+  "orbits": {
+    "value": "Orbits",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629234271285,
+        "oldValue": "",
+        "newValue": "Orbits"
+      }
+    ]
+  },
+  "cloud": {
+    "value": "Awọsanma",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629234271285,
+        "oldValue": "",
+        "newValue": "Awọsanma"
+      }
+    ]
+  },
+  "model": {
+    "value": "Awòṣe:",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629234271285,
+        "oldValue": "",
+        "newValue": "àwòṣe:"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1630494919455,
+        "oldValue": "àwòṣe:",
+        "newValue": "Awòṣe:"
+      }
+    ]
+  },
+  "protons": {
+    "value": "Awon Prótónì",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629234271285,
+        "oldValue": "",
+        "newValue": "Awon Prótónì"
+      }
+    ]
+  },
+  "neutrons": {
+    "value": "Awon Neutron",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629234271285,
+        "oldValue": "",
+        "newValue": "Awon Neutrons"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1630494919455,
+        "oldValue": "Awon Neutrons",
+        "newValue": "Awon Neutron"
+      }
+    ]
+  },
+  "electrons": {
+    "value": "Awon Ẹ̀lẹ́ktròn",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629234271285,
+        "oldValue": "",
+        "newValue": "Awon Ẹ̀lẹ́ktròn"
+      }
+    ]
+  },
+  "massNumber": {
+    "value": "Nọ́mbà Màssi",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629234271285,
+        "oldValue": "",
+        "newValue": " Nọ́mbà Massi"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1630489381587,
+        "oldValue": " Nọ́mbà Massi",
+        "newValue": "Nọ́mbà Màssi"
+      }
+    ]
+  },
+  "netCharge": {
+    "value": "Net Charge",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629234271285,
+        "oldValue": "",
+        "newValue": "Net Charge"
+      }
+    ]
+  },
+  "atom": {
+    "value": "Átọ̀mù",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629234271285,
+        "oldValue": "",
+        "newValue": "Átọ̀mù"
+      }
+    ]
+  },
+  "protonsColonPattern": {
+    "value": "Prótónì : {0}",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629234271285,
+        "oldValue": "",
+        "newValue": "Prótónì : {0}"
+      }
+    ]
+  },
+  "neutronsColonPattern": {
+    "value": "Neutrons: {0}",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629234271286,
+        "oldValue": "",
+        "newValue": " Neutrons: {0}"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1630489381587,
+        "oldValue": " Neutrons: {0}",
+        "newValue": "Neutrons: {0}"
+      }
+    ]
+  },
+  "electronsColonPattern": {
+    "value": "Ẹ̀lẹ́ktròn: {0}",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629234271286,
+        "oldValue": "",
+        "newValue": "Ẹ̀lẹ́ktròn: {0}"
+      }
+    ]
+  },
+  "whatIsTheTotalCharge": {
+    "value": "kini àpàpo charge?",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629234271286,
+        "oldValue": "",
+        "newValue": "kini apapo charge?"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1630494919455,
+        "oldValue": "kini apapo charge?",
+        "newValue": "kini àpàpo charge?"
+      }
+    ]
+  },
+  "findTheElement": {
+    "value": "Wà Ẹ̀lemẹ́nt na:",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629234271286,
+        "oldValue": "",
+        "newValue": "Wa Element na:"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1630489381587,
+        "oldValue": "Wa Element na:",
+        "newValue": "Wa Ẹ̀lemẹ́nt na:"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1630494919455,
+        "oldValue": "Wa Ẹ̀lemẹ́nt na:",
+        "newValue": "Wà Ẹ̀lemẹ́nt na:"
+      }
+    ]
+  },
+  "ion": {
+    "value": "Ion",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629234271286,
+        "oldValue": "",
+        "newValue": "Ion"
+      }
+    ]
+  },
+  "neutralAtom": {
+    "value": "Átọ̀mù Neutral",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629234271286,
+        "oldValue": "",
+        "newValue": "Átọ̀mù Neutral"
+      }
+    ]
+  },
+  "isIt": {
+    "value": "Sé beeni:",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629234271286,
+        "oldValue": "",
+        "newValue": "Se beeni:"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1630489381587,
+        "oldValue": "Se beeni:",
+        "newValue": "Sé beeni:"
+      }
+    ]
+  },
+  "whatIsTheMassNumber": {
+    "value": "Kini\n Nọ́mbà Massi",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629234271286,
+        "oldValue": "",
+        "newValue": "Kini\n Nọ́mbà Massi"
+      }
+    ]
+  },
+  "protonsColon": {
+    "value": "Prótónì:",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629234271286,
+        "oldValue": "",
+        "newValue": "Prótónì :"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1630494919455,
+        "oldValue": "Prótónì :",
+        "newValue": "Prótónì:"
+      }
+    ]
+  },
+  "neutronsColon": {
+    "value": "Neutrons: ",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629234271286,
+        "oldValue": "",
+        "newValue": " Neutrons: "
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1630494919455,
+        "oldValue": " Neutrons: ",
+        "newValue": "Neutrons: "
+      }
+    ]
+  },
+  "electronsColon": {
+    "value": "Ẹ̀lẹ́ktròn:",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629234271286,
+        "oldValue": "",
+        "newValue": "Ẹ̀lẹ́ktròn:"
+      }
+    ]
+  },
+  "chooseYourGame": {
+    "value": "Yan Iséré rẹ!",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629234271286,
+        "oldValue": "",
+        "newValue": "Yan Ere rẹ!"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1630489381587,
+        "oldValue": "Yan Ere rẹ!",
+        "newValue": "Yan Eré rẹ!"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1630494590617,
+        "oldValue": "Yan Eré rẹ!",
+        "newValue": "Yan Iséré rẹ!"
+      }
+    ]
+  },
+  "game": {
+    "value": "Iséré",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629234271286,
+        "oldValue": "",
+        "newValue": "Ere"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1630489381587,
+        "oldValue": "Ere",
+        "newValue": "Iséré"
+      }
+    ]
+  },
+  "highContrastParticles": {
+    "value": "High Contrast Particles",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629234271286,
+        "oldValue": "",
+        "newValue": "High Contrast Particles"
+      }
+    ]
+  },
+  "symbol": {
+    "value": "Amì àwọn Ẹ̀lemẹ́nt",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629234271286,
+        "oldValue": "",
+        "newValue": "Isàmì"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1630489381587,
+        "oldValue": "Isàmì",
+        "newValue": "Amì àwọn Ẹ̀lemẹ́nt"
+      }
+    ]
+  },
+  "build-an-atom.title": {
+    "value": "kọ̀ Átọ̀mù",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629234271286,
+        "oldValue": "",
+        "newValue": "kọ̀ Átọ̀mù"
+      }
+    ]
+  }
+}

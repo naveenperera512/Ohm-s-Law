@@ -1,0 +1,244 @@
+{
+  "chooseYourLevel": {
+    "value": "Veldu erfðileikastig!",
+    "history": [
+      {
+        "userId": 773195,
+        "timestamp": 1619777165427,
+        "oldValue": "",
+        "newValue": "Veldu erfðileikastig!"
+      }
+    ]
+  },
+  "done": {
+    "value": "Lokið",
+    "history": [
+      {
+        "userId": 773195,
+        "timestamp": 1619778731734,
+        "oldValue": "",
+        "newValue": "Lokið"
+      }
+    ]
+  },
+  "next": {
+    "value": "Næsta",
+    "history": [
+      {
+        "userId": 773195,
+        "timestamp": 1619778731734,
+        "oldValue": "",
+        "newValue": "Næsta"
+      }
+    ]
+  },
+  "score": {
+    "value": "Stig:",
+    "history": [
+      {
+        "userId": 773195,
+        "timestamp": 1619777165428,
+        "oldValue": "",
+        "newValue": "Stig:"
+      }
+    ]
+  },
+  "pattern.score.number": {
+    "value": "Stig: {{score}}",
+    "history": [
+      {
+        "userId": 773195,
+        "timestamp": 1619777165428,
+        "oldValue": "",
+        "newValue": "Stig: {{score}}"
+      }
+    ]
+  },
+  "youCompletedAllLevels": {
+    "value": "Þú hefur lokið öllum erfiðleikastigunum!",
+    "history": [
+      {
+        "userId": 773195,
+        "timestamp": 1619778731734,
+        "oldValue": "",
+        "newValue": "Þú hefur lokið öllum erfiðleikastigunum!"
+      }
+    ]
+  },
+  "pattern.0minutes.1seconds": {
+    "value": "{0}:{1}",
+    "history": [
+      {
+        "userId": 773195,
+        "timestamp": 1619777165428,
+        "oldValue": "",
+        "newValue": "{0}:{1}"
+      }
+    ]
+  },
+  "pattern.0hours.1minutes.2seconds": {
+    "value": "{0}:{1}:{2}",
+    "history": [
+      {
+        "userId": 773195,
+        "timestamp": 1619777165428,
+        "oldValue": "",
+        "newValue": "{0}:{1}:{2}"
+      }
+    ]
+  },
+  "pattern.0yourBest": {
+    "value": "(Persónulegt met: {0})",
+    "history": [
+      {
+        "userId": 773195,
+        "timestamp": 1619777165427,
+        "oldValue": "",
+        "newValue": "(Persónulegt met: {0})"
+      }
+    ]
+  },
+  "yourNewBest": {
+    "value": "(Nýtt persónulegt met!)",
+    "history": [
+      {
+        "userId": 773195,
+        "timestamp": 1619777165427,
+        "oldValue": "",
+        "newValue": "(Nýtt persónulegt met!)"
+      }
+    ]
+  },
+  "check": {
+    "value": "Sannreyna",
+    "history": [
+      {
+        "userId": 773195,
+        "timestamp": 1619777165427,
+        "oldValue": "",
+        "newValue": "Sannreyna"
+      }
+    ]
+  },
+  "continue": {
+    "value": "Halda áfram",
+    "history": [
+      {
+        "userId": 773195,
+        "timestamp": 1619777165427,
+        "oldValue": "",
+        "newValue": "Halda áfram"
+      }
+    ]
+  },
+  "excellent": {
+    "value": "Frábært!",
+    "history": [
+      {
+        "userId": 773195,
+        "timestamp": 1619777165427,
+        "oldValue": "",
+        "newValue": "Frábært!"
+      }
+    ]
+  },
+  "good": {
+    "value": "Gott!",
+    "history": [
+      {
+        "userId": 773195,
+        "timestamp": 1619777165427,
+        "oldValue": "",
+        "newValue": "Gott!"
+      }
+    ]
+  },
+  "great": {
+    "value": "Flott!",
+    "history": [
+      {
+        "userId": 773195,
+        "timestamp": 1619777165427,
+        "oldValue": "",
+        "newValue": "Flott!"
+      }
+    ]
+  },
+  "keepTrying": {
+    "value": "Ekki gefast upp",
+    "history": [
+      {
+        "userId": 773195,
+        "timestamp": 1619777165427,
+        "oldValue": "",
+        "newValue": "Ekki gefast upp"
+      }
+    ]
+  },
+  "label.level": {
+    "value": "Erfiðleikastig: {0}",
+    "history": [
+      {
+        "userId": 773195,
+        "timestamp": 1619777165428,
+        "oldValue": "",
+        "newValue": "Erfiðleikastig: {0}"
+      }
+    ]
+  },
+  "label.scorePattern": {
+    "value": "Stig: {0}",
+    "history": [
+      {
+        "userId": 773195,
+        "timestamp": 1619777165428,
+        "oldValue": "",
+        "newValue": "Stig: {0}"
+      }
+    ]
+  },
+  "label.score.max": {
+    "value": "Stig: {0} af {1}",
+    "history": [
+      {
+        "userId": 773195,
+        "timestamp": 1619777165428,
+        "oldValue": "",
+        "newValue": "Stig: {0} af {1}"
+      }
+    ]
+  },
+  "showAnswer": {
+    "value": "Sýna svar",
+    "history": [
+      {
+        "userId": 773195,
+        "timestamp": 1619777165428,
+        "oldValue": "",
+        "newValue": "Sýna svar"
+      }
+    ]
+  },
+  "label.time": {
+    "value": "Tími: {0}",
+    "history": [
+      {
+        "userId": 773195,
+        "timestamp": 1619777165428,
+        "oldValue": "",
+        "newValue": "Tími: {0}"
+      }
+    ]
+  },
+  "tryAgain": {
+    "value": "Reyndu aftur",
+    "history": [
+      {
+        "userId": 773195,
+        "timestamp": 1619777165428,
+        "oldValue": "",
+        "newValue": "Reyndu aftur"
+      }
+    ]
+  }
+}

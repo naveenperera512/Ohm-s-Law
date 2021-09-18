@@ -1,0 +1,294 @@
+{
+  "capacitance": {
+    "value": "Capacitance",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629235551698,
+        "oldValue": "",
+        "newValue": "Capacitance"
+      }
+    ]
+  },
+  "picoCoulombsPattern": {
+    "value": "{{value}} pC",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629235551698,
+        "oldValue": "",
+        "newValue": "{{value}} pC"
+      }
+    ]
+  },
+  "picoFaradsPattern": {
+    "value": "{{value}} pF",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629235551698,
+        "oldValue": "",
+        "newValue": "{{value}} pF"
+      }
+    ]
+  },
+  "picoJoulesPattern": {
+    "value": "{{value}} pJ",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629235551698,
+        "oldValue": "",
+        "newValue": "{{value}} pJ"
+      }
+    ]
+  },
+  "storedEnergy": {
+    "value": "Agbárá ta store pámo",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629235551698,
+        "oldValue": "",
+        "newValue": " Agbara ta store pamo"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1630495471363,
+        "oldValue": " Agbara ta store pamo",
+        "newValue": " Agbárá ta store pámo"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1630497140722,
+        "oldValue": " Agbárá ta store pámo",
+        "newValue": "Agbárá ta store pámo"
+      }
+    ]
+  },
+  "topPlateCharge": {
+    "value": "Charge Plate towa loké ",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629235551698,
+        "oldValue": "",
+        "newValue": "Chargi Oke Awo"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1630497140722,
+        "oldValue": "Chargi Oke Awo",
+        "newValue": "Charge Plate towa loké "
+      }
+    ]
+  },
+  "voltsPattern": {
+    "value": "{{value}} V",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629235551698,
+        "oldValue": "",
+        "newValue": "{{value}} V"
+      }
+    ]
+  },
+  "millimetersSquaredPattern": {
+    "value": "{{value}} mm<sup>2</sup>",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629235551698,
+        "oldValue": "",
+        "newValue": "{{value}} mm<sup>2</sup>"
+      }
+    ]
+  },
+  "plateArea": {
+    "value": "Plate Area",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629235551698,
+        "oldValue": "",
+        "newValue": "Agbegbe Awo"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1630495471363,
+        "oldValue": "Agbegbe Awo",
+        "newValue": "Plate Area"
+      }
+    ]
+  },
+  "millimetersPattern": {
+    "value": "{{value}} mm",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629235551698,
+        "oldValue": "",
+        "newValue": "{{value}} mm"
+      }
+    ]
+  },
+  "separation": {
+    "value": "Iyápá",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629235551698,
+        "oldValue": "",
+        "newValue": "Iyapa"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1630495471363,
+        "oldValue": "Iyapa",
+        "newValue": "Iyápá"
+      }
+    ]
+  },
+  "barGraphs": {
+    "value": "Graph oni Bar",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629235551698,
+        "oldValue": "",
+        "newValue": " àtẹ oni Bar"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1630495471363,
+        "oldValue": " àtẹ oni Bar",
+        "newValue": "Graph oni Bar"
+      }
+    ]
+  },
+  "currentDirection": {
+    "value": "Current Direction",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629235551698,
+        "oldValue": "",
+        "newValue": " ìdarí lọ́ọ́lọ́ọ́"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1630495471363,
+        "oldValue": " ìdarí lọ́ọ́lọ́ọ́",
+        "newValue": "Current Direction"
+      }
+    ]
+  },
+  "electricField": {
+    "value": "Pápá Ẹ̀lẹ́ktriki",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629235551698,
+        "oldValue": "",
+        "newValue": "Electric Field"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1630497140722,
+        "oldValue": "Electric Field",
+        "newValue": "Pápá Ẹ̀lẹ́ktriki"
+      }
+    ]
+  },
+  "plateCharges": {
+    "value": "Chargi awon plate",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629235551698,
+        "oldValue": "",
+        "newValue": "Chargi awon Awo"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1630495471363,
+        "oldValue": "Chargi awon Awo",
+        "newValue": "Chargi awon plate"
+      }
+    ]
+  },
+  "voltage": {
+    "value": "Fotéji",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629235551698,
+        "oldValue": "",
+        "newValue": "Voltage"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1630495471363,
+        "oldValue": "Voltage",
+        "newValue": "Foteji"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1630497140722,
+        "oldValue": "Foteji",
+        "newValue": "Fotéji"
+      }
+    ]
+  },
+  "volts.unknown": {
+    "value": "?",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629235551698,
+        "oldValue": "",
+        "newValue": "?"
+      }
+    ]
+  },
+  "screen.capacitance": {
+    "value": "Capacitance",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629235551698,
+        "oldValue": "",
+        "newValue": "Capacitance"
+      }
+    ]
+  },
+  "screen.lightBulb": {
+    "value": "Iná Gílóòbù ",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629235551698,
+        "oldValue": "",
+        "newValue": "Iná Gílóòbù "
+      }
+    ]
+  },
+  "capacitor-lab-basics.title": {
+    "value": "Láábù Capacitor: Basics",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629235551698,
+        "oldValue": "",
+        "newValue": "Capacitor Lab: Basics"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1630497140722,
+        "oldValue": "Capacitor Lab: Basics",
+        "newValue": "Láábù Capacitor: Basics"
+      }
+    ]
+  }
+}

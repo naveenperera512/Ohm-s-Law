@@ -1,0 +1,552 @@
+{
+  "menuItem.about": {
+    "value": "Mō...",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1618173949830,
+        "oldValue": "",
+        "newValue": "Mō..."
+      }
+    ]
+  },
+  "menuItem.getUpdate": {
+    "value": "Kimi Whakahoutanga...",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1618173949830,
+        "oldValue": "",
+        "newValue": "Kimi Whakahoutanga..."
+      }
+    ]
+  },
+  "updates.checking": {
+    "value": "Kei te kimi i ngā whakahoutanga",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1618173949830,
+        "oldValue": "",
+        "newValue": "Kei te kimi i ngā whakahoutanga"
+      }
+    ]
+  },
+  "credits.contributors": {
+    "value": "Kaiāwhina: {0}",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1618173949830,
+        "oldValue": "",
+        "newValue": "Kaiāwhina: {0}"
+      }
+    ]
+  },
+  "credits.title": {
+    "value": "Waetohu",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1618173949830,
+        "oldValue": "",
+        "newValue": "Waetohu"
+      }
+    ]
+  },
+  "menuItem.fullscreen": {
+    "value": "Mata katoa",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1618173949830,
+        "oldValue": "",
+        "newValue": "Mata katoa"
+      }
+    ]
+  },
+  "updates.getUpdate": {
+    "value": "Tiki Whakahoutanga",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1618173949830,
+        "oldValue": "",
+        "newValue": "Tiki Whakahoutanga"
+      }
+    ]
+  },
+  "credits.graphicArts": {
+    "value": "Toi whakanikoniko: {0}",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1618173949830,
+        "oldValue": "",
+        "newValue": "Toi whakanikoniko: {0}"
+      }
+    ]
+  },
+  "keyboardShortcuts.title": {
+    "value": "Pātuhi Pokatata",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1618173949830,
+        "oldValue": "",
+        "newValue": "Pātuhi Pokatata"
+      }
+    ]
+  },
+  "credits.leadDesign": {
+    "value": "Kaiārahi Hoahoa: {0}",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1618173949830,
+        "oldValue": "",
+        "newValue": "Kaiārahi Hoahoa: {0}"
+      }
+    ]
+  },
+  "menuItem.mailInputEventsLog": {
+    "value": "Takahanga Rangitaki I-Mēra",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1618173949830,
+        "oldValue": "",
+        "newValue": "Takahanga Rangitaki I-Mēra"
+      }
+    ]
+  },
+  "updates.outOfDate": {
+    "value": "Kua Rite Te Putanga Hou ",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1618173949830,
+        "oldValue": "",
+        "newValue": "Kua Rite Te Putanga Hou "
+      }
+    ]
+  },
+  "updates.noThanks": {
+    "value": "Kāo",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1618173949830,
+        "oldValue": "",
+        "newValue": "Kāo"
+      }
+    ]
+  },
+  "options.title": {
+    "value": "Kōwhiringa",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1618173949830,
+        "oldValue": "",
+        "newValue": "Kōwhiringa"
+      }
+    ]
+  },
+  "menuItem.options": {
+    "value": "Kōwhiringa...",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1618173949830,
+        "oldValue": "",
+        "newValue": "Kōwhiringa..."
+      }
+    ]
+  },
+  "menuItem.outputInputEventsLog": {
+    "value": "Takahanga Rangitaki, ki waho, ki roto",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1618173949830,
+        "oldValue": "",
+        "newValue": "Takahanga Rangitaki, ki waho, ki roto"
+      }
+    ]
+  },
+  "menuItem.phetWebsite": {
+    "value": "Paetukutuku PhET...",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1618173949830,
+        "oldValue": "",
+        "newValue": "Paetukutuku PhET..."
+      }
+    ]
+  },
+  "credits.qualityAssurance": {
+    "value": "Kaititiro i te painga: {0}",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1618173949830,
+        "oldValue": "",
+        "newValue": "Kaititiro i te painga: {0}"
+      }
+    ]
+  },
+  "menuItem.reportAProblem": {
+    "value": "Whakamōhio mai he take...",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1618173949830,
+        "oldValue": "",
+        "newValue": "Whakamōhio mai he take..."
+      }
+    ]
+  },
+  "menuItem.screenshot": {
+    "value": "Whakaahua-Mata",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1618173949830,
+        "oldValue": "",
+        "newValue": "Whakaahua-Mata"
+      }
+    ]
+  },
+  "credits.softwareDevelopment": {
+    "value": "Hanga Pūmanawa: {0}",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1618173949830,
+        "oldValue": "",
+        "newValue": "Hanga Pūmanawa: {0}"
+      }
+    ]
+  },
+  "menuItem.submitInputEventsLog": {
+    "value": "Tukua mai te Takahanga Rangitaki ki roto",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1618173949830,
+        "oldValue": "",
+        "newValue": "Tukua mai te Takahanga Rangitaki ki roto"
+      }
+    ]
+  },
+  "credits.team": {
+    "value": "Tīma: {0}",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1618173949830,
+        "oldValue": "",
+        "newValue": "Tīma: {0}"
+      }
+    ]
+  },
+  "termsPrivacyAndLicensing": {
+    "value": "Terms, Privacy & Licensing",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1618173949830,
+        "oldValue": "",
+        "newValue": "Terms, Privacy & Licensing"
+      }
+    ]
+  },
+  "credits.thanks": {
+    "value": "Kei te mihi",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1618173949830,
+        "oldValue": "",
+        "newValue": "Kei te mihi"
+      }
+    ]
+  },
+  "updates.newVersionAvailable": {
+    "value": "Kua Rite Te Putanga Hou: {0}",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1618173949830,
+        "oldValue": "",
+        "newValue": "Kua Rite Te Putanga Hou: {0}"
+      }
+    ]
+  },
+  "thirdParty.credits.link": {
+    "value": "Whakamihi ki tangata kē",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1618173949830,
+        "oldValue": "",
+        "newValue": "Whakamihi ki tangata kē"
+      }
+    ]
+  },
+  "updates.upToDate": {
+    "value": "Kua whakahoua tēnei pūmanawa whakarite",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1618173949830,
+        "oldValue": "",
+        "newValue": "Kua whakahoua tēnei pūmanawa whakarite"
+      }
+    ]
+  },
+  "credits.translation": {
+    "value": "Whakamāoritanga",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1618173949830,
+        "oldValue": "",
+        "newValue": "Whakamāoritanga"
+      }
+    ]
+  },
+  "translation.credits.link": {
+    "value": "Whakamihi mō te whakamāoritanga",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1618173949830,
+        "oldValue": "",
+        "newValue": "Whakamihi mō te whakamāoritanga"
+      }
+    ]
+  },
+  "updates.offline": {
+    "value": "Kāore i taea te kimi whakahoutanga",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1618173949830,
+        "oldValue": "",
+        "newValue": "Kāore i taea te kimi whakahoutanga"
+      }
+    ]
+  },
+  "versionPattern": {
+    "value": "putanga {0}",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1618173949830,
+        "oldValue": "",
+        "newValue": "putanga {0}"
+      }
+    ]
+  },
+  "updates.yourCurrentVersion": {
+    "value": "Tō putanga: {0}",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1618173949830,
+        "oldValue": "",
+        "newValue": "Tō putanga: {0}"
+      }
+    ]
+  },
+  "simTitleWithScreenNamePattern": {
+    "value": "{{simName}} — {{screenName}}",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1618173949830,
+        "oldValue": "",
+        "newValue": "{{simName}} — {{screenName}}"
+      }
+    ]
+  },
+  "menuItem.enhancedSound": {
+    "value": "Rākai Pūoro",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1618173949830,
+        "oldValue": "",
+        "newValue": "Rākai Pūoro"
+      }
+    ]
+  },
+  "ieErrorPage.ieIsNotSupported": {
+    "value": "Kāore e tautokona te pūtirotiro Internet Explorer",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1618173949830,
+        "oldValue": "",
+        "newValue": "Kāore e tautokona te pūtirotiro Internet Explorer"
+      }
+    ]
+  },
+  "queryParametersWarningDialog.invalidQueryParameters": {
+    "value": "He Tawhā Muhu",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1618173949830,
+        "oldValue": "",
+        "newValue": "He Tawhā Muhu"
+      }
+    ]
+  },
+  "queryParametersWarningDialog.oneOrMoreQueryParameters": {
+    "value": "Tētahi, ētahi rānei o ēnei tawhā uiuitanga kua<br>muhu ngā uara:",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1618173949830,
+        "oldValue": "",
+        "newValue": "Tētahi, ētahi rānei o ēnei tawhā uiuitanga kua<br>muhu ngā uara:"
+      }
+    ]
+  },
+  "ieErrorPage.platformError": {
+    "value": "He Hapa ā-Pūnaha",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1618173949830,
+        "oldValue": "",
+        "newValue": "He Hapa ā-Pūnaha"
+      }
+    ]
+  },
+  "ieErrorPage.useDifferentBrowser": {
+    "value": "Me whakamahi tētahi pūtirotiro kē mō tēnei taupānga.",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1618173949830,
+        "oldValue": "",
+        "newValue": "Me whakamahi tētahi pūtirotiro kē mō tēnei taupānga."
+      }
+    ]
+  },
+  "credits.soundDesign": {
+    "value": "Hoahoa pūoro: {0}",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1618173949830,
+        "oldValue": "",
+        "newValue": "Hoahoa pūoro: {0}"
+      }
+    ]
+  },
+  "queryParametersWarningDialog.theSimulationWillStart": {
+    "value": "Ka tīmata te whaihanga ki ngā uara taunoa mō<br>ēnā tawhā uiuitanga.",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1618173949830,
+        "oldValue": "",
+        "newValue": "Ka tīmata te whaihanga ki ngā uara taunoa mō<br>ēnā tawhā uiuitanga."
+      }
+    ]
+  },
+  "keyboardShortcuts.toGetStarted": {
+    "value": "hei tīmatanga",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1618173949830,
+        "oldValue": "",
+        "newValue": "hei tīmatanga"
+      }
+    ]
+  },
+  "projectorMode": {
+    "value": "Pūrere Tukuata",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1618173949830,
+        "oldValue": "",
+        "newValue": "Pūrere Tukuata"
+      }
+    ]
+  },
+  "adaptedFrom": {
+    "value": "nō",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1618173949830,
+        "oldValue": "",
+        "newValue": "nō"
+      }
+    ]
+  },
+  "done": {
+    "value": "Kua oti",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1618173949830,
+        "oldValue": "",
+        "newValue": "Kua oti"
+      }
+    ]
+  },
+  "menuItem.settings": {
+    "value": "Tautuhinga...",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1618173949830,
+        "oldValue": "",
+        "newValue": "Tautuhinga..."
+      }
+    ]
+  },
+  "showPointers": {
+    "value": "Whakaatu Atatohu",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1618173949830,
+        "oldValue": "",
+        "newValue": "Whakaatu Atatohu"
+      }
+    ]
+  },
+  "title.settings": {
+    "value": "Tautuhinga",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1618173949830,
+        "oldValue": "",
+        "newValue": "Tautuhinga"
+      }
+    ]
+  },
+  "titlePattern": {
+    "value": "{0}{1}",
+    "history": [
+      {
+        "userId": 274564,
+        "timestamp": 1618173949830,
+        "oldValue": "",
+        "newValue": "{0}{1}"
+      }
+    ]
+  }
+}

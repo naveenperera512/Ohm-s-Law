@@ -1,0 +1,29 @@
+{
+  "name": "kite",
+  "version": "0.0.0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/phetsims/kite.git"
+  },
+  "devDependencies": {
+    "grunt": "~1.4.0",
+    "pegjs": "0.7.0"
+  },
+  "phet": {
+    "generatedUnitTests": true,
+    "requirejsNamespace": "KITE",
+    "buildStandalone": true,
+    "requiresLodash": true,
+    "assignGlobals": {
+      "kite": "KITE/main",
+      "dot": "DOT/main",
+      "axon": "AXON/main",
+      "phetCore": "PHET_CORE/main"
+    },
+    "supportsOutputJS": true
+  },
+  "eslintConfig": {
+    "extends": "../chipper/eslint/sim_eslintrc.js"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "RgbBulbsModule.title": {
+    "value": "Gílóòbù RGB",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629276686181,
+        "oldValue": "",
+        "newValue": "Gílóòbù RGB"
+      }
+    ]
+  },
+  "bulbSlider.label": {
+    "value": "Color Gílóòbù",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629276686181,
+        "oldValue": "",
+        "newValue": "Awọ̀ gílóòbù"
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1630504807689,
+        "oldValue": "Awọ̀ gílóòbù",
+        "newValue": "Color Gílóòbù"
+      }
+    ]
+  },
+  "filterSlider.label": {
+    "value": "Filter Color",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629276686181,
+        "oldValue": "",
+        "newValue": "Ajọ ti àwọ̀ "
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1630504807690,
+        "oldValue": "Ajọ ti àwọ̀ ",
+        "newValue": "Filter Color"
+      }
+    ]
+  },
+  "SingleBulbModule.title": {
+    "value": "Gílóòbù ẹyọkan",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629276686181,
+        "oldValue": "",
+        "newValue": "Gílóòbù ẹyọkan"
+      }
+    ]
+  },
+  "color-vision.title": {
+    "value": "Color Vision",
+    "history": [
+      {
+        "userId": 958597,
+        "timestamp": 1629276686181,
+        "oldValue": "",
+        "newValue": "Awọ̀ ti ìran "
+      },
+      {
+        "userId": 958597,
+        "timestamp": 1630504807690,
+        "oldValue": "Awọ̀ ti ìran ",
+        "newValue": "Color Vision"
+      }
+    ]
+  }
+}

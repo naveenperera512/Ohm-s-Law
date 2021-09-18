@@ -1,0 +1,23 @@
+// Note this is copied with axon/tsconfig.json
+{
+  "extends": "../chipper/tsconfig-core.json",
+  "references": [
+    {
+      "path": "../phet-core/tsconfig.json"
+    }
+  ],
+  "include": [
+    "js/**/*",
+    "../axon/js/**/*",
+    "../phet-core/js/EnumerationIO.js",
+    "../dot/js/Range.js",
+    "../dot/js/dot.js",
+    "phet-types.d.ts"
+  ],
+  "exclude": [
+    "../**/*test*",
+    "../**/*Test*",
+    "../axon/js/**/*test*",
+    "../axon/js/**/*Test*"
+  ]
+}
